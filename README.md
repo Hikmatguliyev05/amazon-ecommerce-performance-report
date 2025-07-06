@@ -43,7 +43,8 @@ This Power BI project analyzes real sales, returns, and profitability from Amazo
 ![Revenue Analysis](https://github.com/Hikmatguliyev05/amazon-ecommerce-performance-report/blob/main/Revenue%20Analysis.png)
 
 ### 📌 Refund & Returns Analysis  
-![Refund & Returns](https://github.com/Hikmatguliyev05/amazon-ecommerce-performance-report/blob/main/Refunds%26%20Returns.png)
+![https://github.com/Hikmatguliyev05/amazon-ecommerce-performance-report/blob/main/refund%20and%20returns.png)
+
 ```
 
 ## 🔑 Key Insights
